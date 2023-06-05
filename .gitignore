@@ -1,3 +1,14 @@
+# Jupyter Notebooks files
+*.bundle.*
+lib/
+node_modules/
+*.egg-info/
+.ipynb_checkpoints
+*.tsbuildinfo
+
+# MacOS
+.DS_Store/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
